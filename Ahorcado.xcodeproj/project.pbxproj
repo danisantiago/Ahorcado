@@ -13,6 +13,16 @@
 		A4340C471A1B78D10040DB20 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A4340C461A1B78D10040DB20 /* Images.xcassets */; };
 		A4340C4A1A1B78D10040DB20 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A4340C481A1B78D10040DB20 /* LaunchScreen.xib */; };
 		A4340C561A1B78D10040DB20 /* AhorcadoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4340C551A1B78D10040DB20 /* AhorcadoTests.swift */; };
+		A4340C601A1B793E0040DB20 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4340C5F1A1B793E0040DB20 /* SecondViewController.swift */; };
+		A4340C621A1B7B350040DB20 /* ahorcado5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A4340C611A1B7B350040DB20 /* ahorcado5.jpg */; };
+		A4340C6B1A1B7B650040DB20 /* blastoise.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C631A1B7B650040DB20 /* blastoise.png */; };
+		A4340C6C1A1B7B650040DB20 /* bulbasaur.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C641A1B7B650040DB20 /* bulbasaur.png */; };
+		A4340C6D1A1B7B650040DB20 /* charizard.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C651A1B7B650040DB20 /* charizard.png */; };
+		A4340C6E1A1B7B650040DB20 /* charmander.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C661A1B7B650040DB20 /* charmander.png */; };
+		A4340C6F1A1B7B650040DB20 /* pikachu.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C671A1B7B650040DB20 /* pikachu.png */; };
+		A4340C701A1B7B650040DB20 /* raichu.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C681A1B7B650040DB20 /* raichu.png */; };
+		A4340C711A1B7B650040DB20 /* squirtle.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C691A1B7B650040DB20 /* squirtle.png */; };
+		A4340C721A1B7B650040DB20 /* venusaur.png in Resources */ = {isa = PBXBuildFile; fileRef = A4340C6A1A1B7B650040DB20 /* venusaur.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +46,16 @@
 		A4340C4F1A1B78D10040DB20 /* AhorcadoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AhorcadoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4340C541A1B78D10040DB20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A4340C551A1B78D10040DB20 /* AhorcadoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AhorcadoTests.swift; sourceTree = "<group>"; };
+		A4340C5F1A1B793E0040DB20 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		A4340C611A1B7B350040DB20 /* ahorcado5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ahorcado5.jpg; sourceTree = "<group>"; };
+		A4340C631A1B7B650040DB20 /* blastoise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blastoise.png; sourceTree = "<group>"; };
+		A4340C641A1B7B650040DB20 /* bulbasaur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bulbasaur.png; sourceTree = "<group>"; };
+		A4340C651A1B7B650040DB20 /* charizard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charizard.png; sourceTree = "<group>"; };
+		A4340C661A1B7B650040DB20 /* charmander.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charmander.png; sourceTree = "<group>"; };
+		A4340C671A1B7B650040DB20 /* pikachu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pikachu.png; sourceTree = "<group>"; };
+		A4340C681A1B7B650040DB20 /* raichu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = raichu.png; sourceTree = "<group>"; };
+		A4340C691A1B7B650040DB20 /* squirtle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squirtle.png; sourceTree = "<group>"; };
+		A4340C6A1A1B7B650040DB20 /* venusaur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = venusaur.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +99,17 @@
 			children = (
 				A4340C3F1A1B78D10040DB20 /* AppDelegate.swift */,
 				A4340C411A1B78D10040DB20 /* ViewController.swift */,
+				A4340C5F1A1B793E0040DB20 /* SecondViewController.swift */,
 				A4340C431A1B78D10040DB20 /* Main.storyboard */,
+				A4340C631A1B7B650040DB20 /* blastoise.png */,
+				A4340C641A1B7B650040DB20 /* bulbasaur.png */,
+				A4340C651A1B7B650040DB20 /* charizard.png */,
+				A4340C661A1B7B650040DB20 /* charmander.png */,
+				A4340C671A1B7B650040DB20 /* pikachu.png */,
+				A4340C681A1B7B650040DB20 /* raichu.png */,
+				A4340C691A1B7B650040DB20 /* squirtle.png */,
+				A4340C6A1A1B7B650040DB20 /* venusaur.png */,
+				A4340C611A1B7B350040DB20 /* ahorcado5.jpg */,
 				A4340C461A1B78D10040DB20 /* Images.xcassets */,
 				A4340C481A1B78D10040DB20 /* LaunchScreen.xib */,
 				A4340C3D1A1B78D10040DB20 /* Supporting Files */,
@@ -193,7 +223,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4340C451A1B78D10040DB20 /* Main.storyboard in Resources */,
+				A4340C6C1A1B7B650040DB20 /* bulbasaur.png in Resources */,
+				A4340C6B1A1B7B650040DB20 /* blastoise.png in Resources */,
+				A4340C711A1B7B650040DB20 /* squirtle.png in Resources */,
 				A4340C4A1A1B78D10040DB20 /* LaunchScreen.xib in Resources */,
+				A4340C621A1B7B350040DB20 /* ahorcado5.jpg in Resources */,
+				A4340C701A1B7B650040DB20 /* raichu.png in Resources */,
+				A4340C6F1A1B7B650040DB20 /* pikachu.png in Resources */,
+				A4340C721A1B7B650040DB20 /* venusaur.png in Resources */,
+				A4340C6D1A1B7B650040DB20 /* charizard.png in Resources */,
+				A4340C6E1A1B7B650040DB20 /* charmander.png in Resources */,
 				A4340C471A1B78D10040DB20 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4340C601A1B793E0040DB20 /* SecondViewController.swift in Sources */,
 				A4340C421A1B78D10040DB20 /* ViewController.swift in Sources */,
 				A4340C401A1B78D10040DB20 /* AppDelegate.swift in Sources */,
 			);
